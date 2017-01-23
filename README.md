@@ -2,8 +2,7 @@
 
 ## Engineer.cfg
 
-sets mouse 3 (mouse wheel button) to destroy and rebuild sentury unit.
 
-|Bind           |Action                        |
-|---------------|------------------------------|
-|Mouse 3		|Destroy and rebuld sentury gun|
+|Bind           |Action                        |Description                                                         |
+|---------------|------------------------------|--------------------------------------------------------------------|
+|Mouse 3		|Destroy and rebuld sentury gun|sets mouse 3 (mouse wheel button) to destroy and rebuild sentury gun|
