@@ -1,7 +1,4 @@
-# My Team fortress 2 cfg files
-
-## Engineer.cfg
-
+# Engineer.cfg
 
 |Bind           |Action                        |Description                                                         |
 |---------------|------------------------------|--------------------------------------------------------------------|
